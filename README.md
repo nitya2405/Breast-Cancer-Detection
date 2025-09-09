@@ -24,6 +24,13 @@ This project develops a **machine learning pipeline** using **Fine Needle Aspira
 - **Impact:** Provides reliable decision support when expert review is unavailable  
 
 ---
-<img width="2000" height="1400" alt="typesofb" src="https://github.com/user-attachments/assets/41bcbdbd-5ebc-4fff-8e7f-08766825c280" />
-![benign-and-malignant-tumor-1024x683-1](https://github.com/user-attachments/assets/c120774d-634d-4e49-9724-7a4e8a255b37)
-<img width="690" height="989" alt="pipeline" src="https://github.com/user-attachments/assets/f629e6ae-ab29-4db1-8c1e-0559847af386" />
+## 🖼️ Visuals
+
+### Types of Breast Tumors
+<img width="600" alt="types of breast cancer" src="https://github.com/user-attachments/assets/41bcbdbd-5ebc-4fff-8e7f-08766825c280" />
+
+### Benign vs Malignant
+![Benign vs Malignant](https://github.com/user-attachments/assets/c120774d-634d-4e49-9724-7a4e8a255b37)
+
+### ML Pipeline
+<img width="500" alt="pipeline" src="https://github.com/user-attachments/assets/f629e6ae-ab29-4db1-8c1e-0559847af386" />
